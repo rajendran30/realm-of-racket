@@ -1,4 +1,4 @@
 realm-of-racket
 ===============
 
-contains programming problems and solutions from the book Realm of Racket.
+contains solutions for programming problems in the book Realm of Racket by by Matthias Felleisen (Author), Conrad Barski (Author), David Van Horn (Author), Eight Students of Northeastern University (Author) 
